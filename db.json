@@ -26,28 +26,28 @@
       "name": "Mariposas Collective",
       "image": "https://scontent.fmem1-1.fna.fbcdn.net/v/t1.6435-9/78628485_2470827376530954_514714678958489600_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=tG5IIETBWg0AX9B3k_P&_nc_ht=scontent.fmem1-1.fna&oh=96f7e9a66f0c108a61f9a47c11e82a1a&oe=60E52FD4",
       "description": "Mariposas Collective is a grassroots group of people driven by love of our neighbors, feelings of solidarity, and a desire for justice. Mariposas Collective volunteers serve asylum seeking families in transit through Memphis, more than 80 families every week",
-      "donations": 400
+      "donations": 1000
     },
     {
       "id": 5,
       "name": "H.O.P.E.",
       "image": "https://midsouthpeace.org/wp-content/uploads/2016/07/10392410_772728763540_1126703276823902589_n.jpg",
       "description": "Homeless Organizing for Power and Equality (H.O.P.E.) is an organization whose members are exclusively people who are currently experiencing or have formerly experienced homelessness. H.O.P.E. is a voice for the homeless community in Memphis, redefining and challenging people’s ideas about homelessness and bridging the gap between the unsheltered and sheltered communities through grassroots activism, organizing, education, networking, and skills-training.",
-      "donations": 0
+      "donations": 200
     },
     {
       "id": 6,
       "name": "STAND for Children",
       "image": "http://stand.org/sites/all/themes/stand_main/img/Stand_National_Logo_Cyan.png",
       "description": "Stand is focused on ensuring all students receive a high quality, relevant education, especially those whose boundless potential is overlooked and under-tapped because of their skin color, zip code, first language, or disability",
-      "donations": 0
+      "donations": 200
     },
     {
       "id": 7,
       "name": "Streetdog Foundation",
       "image": "https://images.squarespace-cdn.com/content/566f06865a5668e19853f7d6/1565281144193-9215KGFL6IJWWC7SLWYD/SDF_FB.png?format=1500w&content-type=image%2Fpng",
       "description": "Streetdog Foundation rescues, rehabilitates, and re-homes stray and abandoned dogs in Memphis, TN.",
-      "donations": 0
+      "donations": 300
     }
   ]
 }

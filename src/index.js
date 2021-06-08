@@ -51,7 +51,9 @@ const addNonprofitsToBar = () => {
         nonprofitsName.innerHTML = obj.name
         nonProfitDiv.append(nonprofitsName)
         nonprofitsName.addEventListener("click", () => {
-          return addDetailedInfo(obj)
+          fetch(`http://localhost:3000/nonprofits/${obj.id}`)
+            .then(rep => rep.json())
+            .then(object => addDetailedInfo(object))
         })
       })
     })
